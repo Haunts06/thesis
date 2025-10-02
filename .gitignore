@@ -1,0 +1,13 @@
+# Ignore all .ply files
+*.ply
+
+# Ignore captures and new_pointclouds folders
+captures/
+new_pointclouds/
+
+# Optional: Ignore common cache and system files
+__pycache__/
+*.log
+*.tmp
+*.swp
+
